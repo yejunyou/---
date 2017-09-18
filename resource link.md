@@ -1,0 +1,3 @@
+- [吴恩达课程的非官方笔记：Machine Learning - complete course notes](http://www.holehouse.org/mlclass/)
+- [从零开始掌握Python机器学习：十四步教程](https://zhuanlan.zhihu.com/p/25761248)
+- [神经网络和深度学习 - 二分分类笔记](https://zhuanlan.zhihu.com/p/29026616)
